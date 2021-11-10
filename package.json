@@ -1,14 +1,17 @@
 {
   "name": "@pancakeswap/sdk-fork",
   "license": "MIT",
-  "version": "2.4.1",
+  "version": "1.0.0",
   "description": "🛠 An SDK for building applications on top of Pancakeswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/digital-group/pancake-swap-sdk-fork",
+  "repository": {
+    "url": "https://github.com/digital-group/pancake-swap-sdk-fork",
+    "type": "git"
+  },
   "keywords": [
     "pancakeswap",
     "bsc"
