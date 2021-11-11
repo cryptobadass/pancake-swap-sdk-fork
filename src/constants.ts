@@ -23,6 +23,8 @@ export const FACTORY_ADDRESS = '0x010C332C20a87894C525897C1Efcb6951e10B2FE'
 
 export const INIT_CODE_HASH = '0xb753c5a81b2e5a537073f433e5554dda77cbc8a23fa2572f9506b4eee6ae566d'
 
+export const SDK_FORK_VERSION = '1.0.4'
+
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
 // exports for internal consumption
